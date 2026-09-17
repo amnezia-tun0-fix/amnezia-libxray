@@ -1,6 +1,8 @@
 github.com/ajg/form v1.5.1/go.mod h1:uL1WgH+h2mgNtvBq0339dVnzXdBETtL2LeUXaIv25UY=
 github.com/ajg/form v1.6.1 h1:b73IM7E2esQXNWjh05qXqMLS79nd5aNqkcN487HshbU=
 github.com/ajg/form v1.6.1/go.mod h1:HL757PzLyNkj5AIfptT6L+iGNeXTlnrr/oDePGc/y7Q=
+github.com/amnezia-tun0-fix/amnezia-tun2socks/v2 v2.0.0-20260701120726-32060e61efcf h1:8L7G6kcRrlPdb7kQGuOJQ64fE6haHNiqbyDLJGgOuUY=
+github.com/amnezia-tun0-fix/amnezia-tun2socks/v2 v2.0.0-20260701120726-32060e61efcf/go.mod h1:sTlWdrJYuAka9lQYny4q4Lt0HxqXXzKf6rYpEcfaQys=
 github.com/amnezia-vpn/amnezia-xray-core v1.260728.0 h1:RBlb6zkrAeGVjlFDFJJRcUvueYNesAQ3uzfu9l+mp8Y=
 github.com/amnezia-vpn/amnezia-xray-core v1.260728.0/go.mod h1:VwJOtL3vj2w+8TWa6MZE1q88NsfrWvOXGJ+5wZ2N2ro=
 github.com/amnezia-vpn/amneziawg-go/v3 v3.0.1 h1:gzmMr0gwVoMlHy8fv3j4GX46Ha8rlMdZNhA8RGzG3QQ=

@@ -14,10 +14,9 @@ require (
 
 replace github.com/xtls/xray-core => github.com/amnezia-vpn/amnezia-xray-core v1.260728.0
 
-// Strict Tunnel Isolation: build against the local tun2socks fork while the
-// UID-filter mechanism is under development. Replace with a fork tag before
-// releasing the .aar.
-replace github.com/amnezia-vpn/amnezia-tun2socks/v2 => ../amnezia-tun2socks
+// Strict Split Tunneling: the per-connection UID filter this bridge drives lives
+// in a tun2socks fork, pinned by commit. Drop once the mechanism is upstream.
+replace github.com/amnezia-vpn/amnezia-tun2socks/v2 => github.com/amnezia-tun0-fix/amnezia-tun2socks/v2 v2.0.0-20260701120726-32060e61efcf
 
 require (
 	github.com/ajg/form v1.6.1 // indirect
